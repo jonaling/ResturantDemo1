@@ -1,0 +1,15 @@
+﻿body {
+
+
+}
+
+.headers-style {
+    background-color: #564307;
+    z-index: 99;
+    height: 116px;
+}
+
+.nav-style {
+    padding-left: 15px;
+    float:right;
+}
